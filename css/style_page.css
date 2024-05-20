@@ -192,20 +192,6 @@ body {
 
 }
 
-/* Loading line styles */
-.loading-line {
-	display: none;
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 0;
-	height: 5px;
-	background-color: #fff;
-	z-index: 9999;
-	transition: width 500s ease-in;
-}
-  
-  
 
 /* Animated Text */
 .parent_anim {
@@ -502,10 +488,8 @@ body {
 
 @font-face{
 	font-family: EncodeSansExpanded;
-	src: url(../Encode_Sans_Expanded/EncodeSansExpanded-regular.ttf);
+	src: url(../Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf);
 }
-
-
 /*design journey*/
 .design-section {
   display: flex;
