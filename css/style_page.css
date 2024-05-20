@@ -483,12 +483,12 @@ body {
 /* installing new font-family */
 @font-face {
 	font-family: Jost;
-	src: url(static/Jost-Regular.ttf);
+	src: url(./static/Jost-Regular.ttf);
 }
 
 @font-face{
 	font-family: EncodeSansExpanded;
-	src: url(Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf);
+	src: url(./Encode_Sans_Expanded/EncodeSansExpanded-Regular.ttf);
 }
 /*design journey*/
 .design-section {
